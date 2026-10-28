@@ -1,0 +1,10 @@
+# Secretos de la instancia temporal: NUNCA subir al repositorio.
+.odoo_demo_local.json
+.env
+.env.*
+*.key
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.pytest_cache/
